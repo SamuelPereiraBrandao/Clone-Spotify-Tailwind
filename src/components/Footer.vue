@@ -26,9 +26,9 @@
                 <div class="md:col-span-2 pt-10 md:pt-4">
                     <h3 class="uppercase text-gray-500 font-bold text-xs tracking-widest mb-5">Links Úteis</h3>
                     <ul>
-                        <li class="mb-5"><a href="#"></a>Ajuda</li>
-                        <li class="mb-5"><a href="#"></a>Player da web</li>
-                        <li class="mb-5"><a href="#"></a>Aplicativo móvel grátis</li>
+                        <li class="mb-5"><a href="#">Ajuda</a></li>
+                        <li class="mb-5"><a href="#">Player da web</a></li>
+                        <li class="mb-5"><a href="#">Aplicativo móvel grátis</a></li>
                     </ul>
                 </div>
                 <div class="md:col-span-1 pt-10 md:pt-4 ">

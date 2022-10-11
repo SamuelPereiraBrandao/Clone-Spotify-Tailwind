@@ -1,5 +1,5 @@
 <template lang="">
-  
+  <header>
         <div class="flex fixed bg-black w-full px-3 md:px-20 py-4 text-white font-bold	">
             <div class="container flex items-center mx-auto">
 
@@ -27,5 +27,5 @@
             </div>
 
         </div>
-  
+    </header>
 </template>

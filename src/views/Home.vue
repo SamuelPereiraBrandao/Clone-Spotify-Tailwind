@@ -1,9 +1,15 @@
 <template>
-<div>ae</div>
+    
+    <Banner/>
+
 </template>
 <script>
+
+import Banner from '../components/Banner.vue';
 export default {
-    name: "HomeVue",
-   
+    name: 'HomeVue',
+    components: { Banner }
+
 }
+
 </script>
